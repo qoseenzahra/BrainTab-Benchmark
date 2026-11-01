@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn==1.9.1
+xgboost==3.4.1
+torch==2.14
+tabicl==2.2.0
+tabm==0.0.3
+matplotlib
+requests
+nibabel      # figures only
+nilearn      # figures only
