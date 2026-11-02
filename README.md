@@ -5,7 +5,7 @@ Benchmark on Functional Connectomes"** (Qoseen Zahra, Zhonghua Wan, Yifei He, Ye
 Nanjing University of Science and Technology; submitted to *Computers in Biology and Medicine*).
 
 The benchmark asks whether a **frozen** tabular foundation model (TabICL; TabICLv2 as a sensitivity model) can
-extract diagnostic information from resting-state functional-connectivity (FC) phenotypes when labels are limited and
+extract disorder-related information from resting-state functional-connectivity (FC) phenotypes when labels are limited and
 acquisition sites differ. It compares TabICL with logistic regression, random forest, XGBoost and TabM on ABIDE-I
 (autism; N = 873, 17 sites) and ADHD-200 (N = 716, 7 sites), with every data-dependent step fitted inside the
 training fold, identical folds and context draws for all models, leave-one-site-out testing, few-shot learning,
