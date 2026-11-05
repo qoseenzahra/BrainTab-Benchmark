@@ -1,7 +1,7 @@
 # BrainTab-Benchmark
 
-Code for the paper **"Frozen Tabular Foundation Models for Brain Imaging-Derived Phenotypes: A Leakage-Controlled
-Benchmark on Functional Connectomes"** (Qoseen Zahra, Zhonghua Wan, Yifei He, Ye Wu; School of Computer Science and Engineering,
+Code for the paper **"Frozen Tabular Foundation Models for Functional-Connectivity Phenotypes: A Leakage-Controlled
+Benchmark"** (Qoseen Zahra, Zhonghua Wan, Yifei He, Ye Wu; School of Computer Science and Engineering,
 Nanjing University of Science and Technology; submitted to *Computers in Biology and Medicine*).
 
 The benchmark asks whether a **frozen** tabular foundation model (TabICL; TabICLv2 as a sensitivity model) can
